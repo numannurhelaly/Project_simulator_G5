@@ -1,4 +1,4 @@
 "# Implemented Features"
-"## F1-T1: Sign Up"
-"As a new user, I want to fill out a sign-upform with my personal details and agree to the Terms and Conditions before submitting. After signing up, my account will wait for admin approval. I can not log in until the admin approves my account. Once approved, I'll get a notification and can access the system. I can also cancel the process anytime."
+"## F1-T2: Login"
+"As a returning user, I want to log in using my phone number or email and password,with the option to show or hide my password for convenience. If I forget my password, I want a clear link to reset it. I also want the ability to cancel the login process. If I don’t have an account yet, Iwant a link to sign up easily.."
 
