@@ -2,3 +2,9 @@
 "## F1-T1: Sign Up"
 "As a new user, I want to fill out a sign-upform with my personal details and agree to the Terms and Conditions before submitting. After signing up, my account will wait for admin approval. I can not log in until the admin approves my account. Once approved, I'll get a notification and can access the system. I can also cancel the process anytime."
 
+"## F2-T3_Menu(Agent): "
+"As an agent, I want to be able to view assigned customer accounts, managecustomer requests,process transactions ,view notifications,and generate reports,so that I can efficiently assist customers and track my performance,while having full control over my workand personal settings."
+""
+"##F3-T1-Profile(User): "
+"As a customer, I want to view and manage my personal information, update my password , enable two-factor authentication ,update my preferences , and set a global limit on transactions or activities to ensure better security and control over my account."
+""
