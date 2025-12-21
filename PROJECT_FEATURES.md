@@ -1,2 +1,2 @@
-Feature: Ads
-As an admin, I want to manage all existing ads so that I can keep content up to date and remove irrelevant ads.
+Feature: Request Money
+Description: As a user, I want to send a money request by entering the recipient's name, phone number, amount and purpose, so that the person can receive my request and send me the money.
