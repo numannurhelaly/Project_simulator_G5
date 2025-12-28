@@ -21,3 +21,6 @@ USers Can Loan in this way
 "F2-T1_Menu(User): "
 "As a logged-in user, I want to access and manage my financial information on the dashboard, including balance, transactions,and features like sending money, bill payments, and loan management, so I can easily perform financial tasks."
 ""
+"##F1-T1-Login:"
+"Customer access login"
+""
